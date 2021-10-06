@@ -1,5 +1,5 @@
 ---
-title: "Vorkenntnisse und Erwartungen"
+title: "Was bringe ich mit?"
 date: 2021-09-15
 ---
 
